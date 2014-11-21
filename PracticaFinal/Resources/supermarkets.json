@@ -1,0 +1,51 @@
+ [
+  {
+  "Latitude": "41.399968",
+  "Longitude": "2.193933",
+  "name": "Día",
+  "products": [
+               {
+               "name": "Naranjas",
+               "image": "http://blogquieroeco.files.wordpress.com/2013/05/naranja.jpg"
+               },
+               {
+               "name": "Yogures",
+               "image": "http://www.lavozlibre.com/userfiles/2a_decada/image/FOTOS%202013/04%20ABRIL%202013/02%20ABRIL%202013/yogures.jpg"
+               },
+               {
+               "name": "Pollo",
+               "image": "http://www.mercatcentralcastello.com/wp-content/uploads/pollo-entero.jpg"
+               }
+               ]
+  },
+  {
+  "Latitude": "41.402673",
+  "Longitude": "2.199191",
+  "name": "Mercadona",
+  "products": [
+               {
+               "name": "Pescado",
+               "image": "http://www.padresonones.es/userfiles/image/nutricion/pescado%20-%20copia.jpg"
+               },
+               {
+               "name": "Pasta",
+               "image": "http://upload.wikimedia.org/wikipedia/commons/a/ac/Farfalle_Pasta.JPG"
+               }
+               ]
+  },
+  {
+  "Latitude": "41.402351",
+  "Longitude": "2.203976",
+  "name": "BonArea",
+  "products": [
+               {
+               "name": "Galletas",
+               "image": "https://subwaymexico.com.mx/imagenes/menu_galletas_postres.jpg"
+               },
+               {
+               "name": "Leche",
+               "image": "http://hipogrifos.files.wordpress.com/2007/09/botellitas-de-leche.jpg"
+               }
+               ]
+  }
+  ]

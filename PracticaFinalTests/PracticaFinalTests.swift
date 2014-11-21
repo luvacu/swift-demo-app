@@ -3,7 +3,7 @@
 //  PracticaFinalTests
 //
 //  Created by Luis Valdés on 31/10/14.
-//  Copyright (c) 2014 Accenture. All rights reserved.
+//  Copyright (c) 2014 Luis Valdés. All rights reserved.
 //
 
 import UIKit
