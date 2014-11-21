@@ -11,6 +11,7 @@
 		CF03BAF41A17C4E600F495DE /* PracticaFinal.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CF03BAF11A17C4E600F495DE /* PracticaFinal.xcdatamodeld */; };
 		CF03BAFD1A17ED7C00F495DE /* SupermarketEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF03BAFC1A17ED7C00F495DE /* SupermarketEntity.swift */; };
 		CF03BAFF1A17ED7C00F495DE /* ProductEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF03BAFE1A17ED7C00F495DE /* ProductEntity.swift */; };
+		CF3FB0191A1F494400B84CB2 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF3FB0181A1F494400B84CB2 /* WebViewController.swift */; };
 		CF9C6DE51A03BDB2000CED61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9C6DE41A03BDB2000CED61 /* AppDelegate.swift */; };
 		CF9C6DFE1A03BDB2000CED61 /* PracticaFinalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF9C6DFD1A03BDB2000CED61 /* PracticaFinalTests.swift */; };
 		CFE2F8DC1A1A0D24001222D3 /* SupermarketService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE2F8DB1A1A0D24001222D3 /* SupermarketService.swift */; };
@@ -44,6 +45,7 @@
 		CF03BAFC1A17ED7C00F495DE /* SupermarketEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = SupermarketEntity.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF03BAFE1A17ED7C00F495DE /* ProductEntity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ProductEntity.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		CF03BB011A17EDCE00F495DE /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		CF3FB0181A1F494400B84CB2 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		CF9C6DDF1A03BDB2000CED61 /* TO-BUY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TO-BUY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF9C6DE31A03BDB2000CED61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF9C6DE41A03BDB2000CED61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = AppDelegate.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -220,6 +222,7 @@
 			isa = PBXGroup;
 			children = (
 				CFE2F8F01A1B5420001222D3 /* ProfileViewController.swift */,
+				CF3FB0181A1F494400B84CB2 /* WebViewController.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 				CFE2F8F31A1B5420001222D3 /* SupermarketListViewController.swift in Sources */,
 				CFE2F8F11A1B5420001222D3 /* ProductDetailViewController.swift in Sources */,
 				CF03BAFD1A17ED7C00F495DE /* SupermarketEntity.swift in Sources */,
+				CF3FB0191A1F494400B84CB2 /* WebViewController.swift in Sources */,
 				CFE2F8F81A1BA853001222D3 /* NetworkingService.swift in Sources */,
 				CF03BAF41A17C4E600F495DE /* PracticaFinal.xcdatamodeld in Sources */,
 			);
